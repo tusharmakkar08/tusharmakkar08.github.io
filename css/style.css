@@ -1038,10 +1038,10 @@
 /* One */
 
 	#one:before {
-		background-image: url("../images/mohit.jpg");
+		background-image: url("../images/cover.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: 54em 24em;
+		background-size: 58em 20em;
 		content: '';
 		display: block;
 		height: 18em;

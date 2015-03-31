@@ -5,4 +5,3 @@ Built by using :
 * HTML
 * CSS
 * JavaScript
-* Python

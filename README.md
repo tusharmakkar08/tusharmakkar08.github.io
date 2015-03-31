@@ -1,6 +1,6 @@
 # tusharmakkar08.github.io
 
-Personal Website at github pages. <br>
+Personal Website made using github pages. <br>
 Built by using :
 * HTML
 * CSS
